@@ -4,7 +4,7 @@
 
   `https://github.com/nats-io/nats-server/releases/tag/v2.10.26`
 
-- In code i connected to the nats with queue and worker. The queue is hold the 10 task and worker is received those task. Open multiple terminal and run worker.
+- In code i connected to the nats with queue and worker. The queue is hold the 10 task and worker is received those task. And Open multiple terminal for worker and run worker.
 
  ## Running the Example 
 
